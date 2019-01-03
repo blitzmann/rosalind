@@ -1,5 +1,5 @@
 import re
-from problems.utils.rna_codons import codon_protein_mapping, rna2codons, codons2protein, dna2rna
+from problems.utils.rna_codons import rna2codons, codons2protein, dna2rna
 from problems.utils.fasta import parse
 
 
